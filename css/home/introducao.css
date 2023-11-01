@@ -21,6 +21,7 @@
 }
 
 .introducao img {
+  width: 100%;
   align-self: 100%;
   object-fit: cover;
   border-radius: 4px;
